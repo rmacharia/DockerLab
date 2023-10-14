@@ -2,7 +2,7 @@
 session_start();
 require "connection.php";
 
-echo "Connected to MySQL successfully";
+echo "Welcome to CI/CD";
 
 $connection->close();
 ?>
