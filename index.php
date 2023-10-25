@@ -2,7 +2,7 @@
 session_start();
 require "connection.php";
 
-echo "Welcome to CI/CD using Azure";
+echo "Welcome to Azure CI/CD";
 
 $connection->close();
 ?>
